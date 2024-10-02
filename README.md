@@ -13,13 +13,9 @@
 ## Descripción de la Aplicación
 <ol>
     <li>Ingreso de Datos de Inversión: La aplicación mostrará una pantalla donde los usuarios podrán ingresar el monto, la tasa de interés, el plazo y la entidad de ambas inversiones. Estas inversiones pueden ser de tipo plazo fijo o fondo común de inversión.</li>
-
     <li>Cálculo de Rendimiento: En una segunda pantalla, se calculará el rendimiento de ambas inversiones utilizando el ROI. Además, se simularán los resultados y se proporcionará una recomendación sobre cuál es la mejor opción de inversión.</li>
-
     <li>Historial de Comparaciones: Se implementará un tercer botón que permitirá a los usuarios acceder a un historial de las últimas cinco comparaciones realizadas.</li>
-
     <li>Políticas y Términos: Un cuarto botón redirigirá a otra actividad donde se presentarán las políticas, términos y condiciones de uso de la aplicación.</li>
-
     <li>Test del Inversor: Al instalar la aplicación por primera vez, se llevará a cabo el Test del Inversor. Este consistirá en preguntas de opción múltiple, de las cuales el grupo deberá seleccionar tres para mostrarlas en la aplicación (más información disponible en: <a href="https://www.bna.com.ar/Personas/TestDelInversor">https://www.bna.com.ar/Personas/TestDelInversor</a>). Además, se solicitará el nombre, apellido y correo electrónico del usuario, que se mostrarán en la pantalla de bienvenida.</li>
 </ol>
 
